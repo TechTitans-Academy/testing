@@ -1,4 +1,4 @@
-# Dinner Menu – Static Website (Docker + Nginx)
+# Dinner Menu – Static Website (Docker + Nginx).
 
 A simple static web page that displays a **Dinner Menu** on a full-screen background image. The site is served via [Nginx](https://nginx.org/) inside a Docker container.
 
